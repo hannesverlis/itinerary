@@ -1,4 +1,4 @@
 # itinerary
 Kood/jõhvi itinerary 
 
-itinary Task.pdf
+itinerary Task.pdf
